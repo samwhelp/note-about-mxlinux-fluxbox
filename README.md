@@ -24,7 +24,7 @@
 | 微調腳本 |
 | ------- |
 | [Mx Linux Fluxbox Config](https://github.com/samwhelp/mxlinux-fluxbox-adjustment/tree/main/prototype/main/fluxbox-config) |
-| [Tool Config](https://github.com/samwhelp/mxlinux-fluxbox-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
