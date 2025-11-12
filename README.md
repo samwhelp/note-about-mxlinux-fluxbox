@@ -65,9 +65,9 @@
 | ---- | ------ |
 | [Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fluxbox) |
 | [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Ubuntu Fluxbox 探索筆記](https://samwhelp.github.io/note-about-ubuntu-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-fluxbox) |
+| [Fedora Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fedora-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fedora-fluxbox) |
+| [Archlinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-fluxbox) |
 
 
 
